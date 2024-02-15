@@ -1,6 +1,6 @@
 # Code for the paper -- Content Promotion for Online Content Platforms with the Diffusion Effect
 
-Here the authors provide the code used in the paper, [Content Promotion for Online Content Platforms with the Diffusion Effect]<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3863104>. The authors are not allowed to reveal any datasets, as required by the platform which they collaborated with. You could contact the authors if you have any questions.
+Here the authors provide the code used in the paper, [Content Promotion for Online Content Platforms with the Diffusion Effect](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3863104). The authors are not allowed to reveal any datasets, as required by the platform which they collaborated with. You could contact the authors if you have any questions.
 
 ## Files
 
